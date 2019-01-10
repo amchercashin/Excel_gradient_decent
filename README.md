@@ -1,2 +1,2 @@
 # Excel_gradient_decent
-Gradient decent optimization in Excel. Primer.
+Gradient decent optimization in Excel. Sample.
