@@ -1,7 +1,7 @@
 # Excel_gradient_decent
 Gradient decent optimization in Excel. Sample.
 
-![Excel gradient decent](https://media.giphy.com/media/fQuiskjBq3fG1gx2D4/giphy.gif)
+![Excel gradient decent](https://github.com/amchercashin/Excel_gradient_decent/blob/master/Excel-gradient-decent-min.gif)
 
 There is a simple VBA macro that updates the parameter Z iteratively.
 
